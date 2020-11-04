@@ -2,6 +2,6 @@ core.Microsoft*
 core.mongo*
 core.python*
 env.py
-todo/settings.py
+settings.py
 __pycache__/
 *.py[cod]
