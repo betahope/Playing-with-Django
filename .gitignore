@@ -5,3 +5,4 @@ env.py
 settings.py
 __pycache__/
 *.py[cod]
+db.sqlite3
